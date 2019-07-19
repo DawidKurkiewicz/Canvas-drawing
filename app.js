@@ -6,7 +6,6 @@ ctx.strokeStyle = document.querySelector("#base").value
 ctx.lineJoin = "round"
 ctx.lineCap = "round"
 ctx.lineWidth= 30
-btn=document.querySelector("#hue")
 let isDrawing = false;
 let lastX = 0
 let lastY = 0
